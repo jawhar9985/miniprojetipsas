@@ -1,0 +1,1 @@
+const props = [id,nomProduit,quantite]
